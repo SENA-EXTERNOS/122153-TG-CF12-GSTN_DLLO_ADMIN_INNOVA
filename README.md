@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Planificación estratégica y toma de decisiones organizacionales**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/122153-TG-CF12-GSTN_DLLO_ADMIN_INNOVA ](https://sena-externos.github.io/122153-TG-CF12-GSTN_DLLO_ADMIN_INNOVA )
 
 #
 

@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Planificación estratégica y toma de decisiones organizacionales'
