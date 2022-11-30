@@ -30,7 +30,7 @@
             img(src='@/assets/curso/tema3/img1.png' alt='AvatarTop')
           .col-12.p-4
             h4.text-center.text-white Observación
-            p.text-center.text-white.mb-0 Se da cuando el observador lo realiza como parte del grupo, participando en actividades dispuestas para el ejercicio diagnóstico
+            p.text-center.text-white.mb-0 Se da cuando el observador lo realiza como parte del grupo, participando en actividades dispuestas para el ejercicio diagnóstico.
       .tarjeta.color-secundario
         .row.justify-content-center.mb-3
           .col-12
@@ -60,7 +60,7 @@
             h4.text-center.text-white Dramatización
             p.text-center.text-white.mb-0 Proporciona información sobre la percepción que las personas tienen sobre diversos temas.
     p.mb-5(data-aos="fade-left") También se encuentran las técnicas cuantitativas. Las cuales son:
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-sm-10.col-md-6.col-lg-5.mb-4
         .crd_hover_txt1
           .crd_hover_txt--img.mb-0         
@@ -89,6 +89,19 @@
                   .row
                     .col
                       p.text-center Se analiza cómo es la comunicación entre las personas, dentro de la organización.
+    p.mb-5 Es así como la obtención de información viabiliza el uso de la misma para la toma de decisiones, a partir del análisis e interpretación y, para hacerlo, existen unas herramientas y técnicas, una vez que se cuente con el contenido del diagnóstico. A continuación, se esbozan algunas de estas herramientas.
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Instrumentos de análisis estratégicoInstrumentos de análisis estratégico
+    .row.mb-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        p Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterada o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
+      .col-lg-5(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema3/img9.png', style="width:450px").m-auto
     .tarjeta.tarjeta--amarilla.p-4.p-lg-5.mb-5(data-aos="fade-up")
       SlyderA(tipo="b")
         .row.justify-content-center

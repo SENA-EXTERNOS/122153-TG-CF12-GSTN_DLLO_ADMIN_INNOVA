@@ -52,7 +52,7 @@
           img(src='@/assets/curso/tema2/img3.png', style="width:500px").m-auto
       .col-lg-7(data-aos="fade-left")
         p.mb-4.mb-lg-0 Es aquella estructura caracterizada por un diseño funcional, es decir, incluye la creación de puestos, equipos y departamentos con base en las actividades especializadas. A partir de ahí, el agrupamiento por funciones de los empleados (por áreas o departamentos) es la manera más apropiada, de más amplio uso y aceptación. Este tipo de estructura presenta ventajas y desventajas, puesto que, por un lado, permite la caracterización y asignación clara de responsabilidades y los colaboradores lo comprenden fácilmente. La similitud en tareas o funciones, posibilitan que la interacción genere soluciones y respaldo entre los integrantes de departamento o del área. La desventaja es que limita los puntos de vista porque los departamentos o áreas pierden la visión de empresa por focalizar sus intereses en lo que únicamente les corresponde. También esta estructura se define a partir del diseño del lugar de trabajo, estableciendo de forma geográfica las unidades (conservando el diseño funcional). Este diseño tiene sus ventajas, como el contacto directo con los clientes internos o externos, rápida respuesta por estar concentrada la información en el área geográfica determinada. Sin embargo, también se experimentan problemas de control y coordinación, puesto que, si las unidades regionales cuentan con procedimientos diferentes, será complicada su articulación
-    p.mb-5(data-aos="fade-right") Algunas de las ventajas de desarrollar un apropiado esquema organizacional son las siguientes:
+    p.mb-5(data-aos="fade-right") Los tipos de estructura tradicional son:
     TabsC.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-3.py-md-4(titulo="Funcional")
         .row.m-1
@@ -60,7 +60,6 @@
             figure
               img(src='@/assets/curso/tema2/img5.svg')
           .col-lg-6
-            h4 Funcional
             p Se estructura en función de las ocupaciones o responsabilidades. Ha sido la estructura más utilizada históricamente, porque se cuenta con estabilidad a partir de la estandarización y especialización de los procesos. Por otro lado, esa concentración de esfuerzos del área, puede perder de vista los objetivos estratégicos de la empresa, porque deja de tener tanta relevancia; además, también puede resultar más compleja la comunicación entre los departamentos.
       .py-3.py-md-4(titulo="Divisional")
         .row.m-1
@@ -68,7 +67,6 @@
             figure
               img(src='@/assets/curso/tema2/img6.svg')
           .col-lg-6
-            h4 Divisional
             p Se estructura por áreas geográficas o por productos; esto beneficia que puedan estar alineados con los objetivos organizacionales. Sin embargo, es más complejo el logro de sinergia, puede generar duplicidad en los costos y hay menos aprendizaje colectivo.
     p.mb-5(data-aos="fade-up") El modelo tradicional de administración que respalda esta estructura, está basado en los principios administrativos, definidos como la serie de fases o etapas que permiten llevar a cabo una actividad, con la existencia de diversos criterios acerca de la cantidad de etapas que lo constituyen, como se observa en la Figura 1.
     .row.justify-content-center.mb-5(data-aos="fade-left")
@@ -97,7 +95,6 @@
             figure
               img(src='@/assets/curso/tema2/img8.svg')
           .col-lg-6
-            h4 Matricial
             p Una mezcla de los tipos de estructura funcional y divisional, que posibilita que un colaborador se comunique y tenga relación directa con dos jefes; por ejemplo, el jefe que hace acompañamiento a su función, pero también al jefe de otra división que se encuentra en otro país, lo que representa una línea de poder poco clara.
       .py-3.py-md-4(titulo="Por proyecto")
         .row.m-1
@@ -105,7 +102,6 @@
             figure
               img(src='@/assets/curso/tema2/img9.svg')
           .col-lg-6
-            h4 Por proyecto
             p Una tendencia muy fuerte que están adoptando las empresas con el fin de ser capaces de adaptarse a los cambios acelerados del mercado. Independientemente de la estructura, llámese funcional, divisional o matricial, este esquema está orientado a crear proyectos, organizaciones temporales que pueden estar en varios departamentos o divisiones, pero que, a su vez, trabajan por un bien común.
     p(data-aos="fade-right") Como respaldo para la estructura administrativa moderna, se cuenta con la evolución de los procesos administrativos, que pasan a ser reconocidos como el ciclo P-H-V-A (Planificar-Hacer-Verificar-Actuar) en la administración.
     p.mb-5(data-aos="fade-right") El PHVA consiste en:
@@ -116,16 +112,12 @@
             figure
               img(src='@/assets/curso/tema2/img10.svg', alt='Texto que describa la imagen')
           .tarjeta.color-acento-botones.p-3(x="37%" y="24%" numero="+")
-            h4 Planear
-            p.mb-0 En este paso se determina ¿qué se quiere o se necesita hacer? A partir de información relevante como en cualquier plan de proyecto; por ejemplo: objetivos, métricas, entregables o resultado final, participantes, cronograma, riesgos y restricciones identificadas
+            p.mb-0 En este paso se determina ¿qué se quiere o se necesita hacer? A partir de información relevante como en cualquier plan de proyecto; por ejemplo: objetivos, métricas, entregables o resultado final, participantes, cronograma, riesgos y restricciones identificadas.
           .tarjeta.color-acento-botones.p-3(x="76%" y="54%" numero="+")
-            h4 Hacer
             p.mb-0 Una vez identificado el plan de proyecto, se procede a ponerlo en marcha y a prueba, con la posibilidad de hacer pequeños ajustes graduales. En esta fase se implementa el plan del proyecto a una pequeña escala, para definir su viabilidad, asegurando que funcione correctamente.
           .tarjeta.color-acento-botones.p-3(x="47.5%" y="94.5%" numero="+")
-            h4 Verificar
             p.mb-0 Esta fase valida que la prueba realizada en el paso anterior haya estado acorde con el plan. Existe la probabilidad que se identifiquen posibilidades de mejora y, por esta razón, la orientación del ciclo es la mejora continua; esta fase es clave para detectar pequeñas complicaciones antes que se transformen en grandes dificultades.
           .tarjeta.color-acento-botones.p-3(x="11%" y="67%" numero="+")
-            h4 Actuar
             p.mb-0 Aquí se implementan todas las mejoras que tuvo el proyecto con el transcurrir del ciclo. El beneficio de planteamiento como ciclo está encaminado a que, en cualquier momento, se puede volver al inicio para mejorar y corregir.
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10

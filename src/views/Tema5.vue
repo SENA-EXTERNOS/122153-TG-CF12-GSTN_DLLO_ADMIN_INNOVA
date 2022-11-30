@@ -18,7 +18,7 @@
       h2 5.1 Indicadores de gestión
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Evaluar conclusiones resulta indispensable si la aspiración es administrar una empresa o proyecto con responsabilidad y buscar la sostenibilidad y supervivencia. Por esta razón, conocer los indicadores de gestión termina siendo, más que una opción, una necesidad. Ellos son una expresión, valor, o signo cuantitativo o cualitativo que muestran el desempeño o el logro en el proceso; sin embargo, en sí mismos, no dicen mucho; por esta razón, es preciso también definir valores de referencia para ser comparados a la luz de una meta u objetivo. Un indicador puede ser la evidencia del avance o estado de un proceso específico, pero el conjunto de varios indicadores bien analizados puede mostrar la situación de la empresa.
+        p Evaluar conclusiones resulta indispensable si la aspiración es administrar una empresa o proyecto con responsabilidad y buscar la sostenibilidad y supervivencia. Por esta razón, conocer los #[b indicadores de gestión] termina siendo, más que una opción, una necesidad. Ellos son una expresión, valor, o signo cuantitativo o cualitativo que muestran el desempeño o el logro en el proceso; sin embargo, en sí mismos, no dicen mucho; por esta razón, es preciso también definir valores de referencia para ser comparados a la luz de una meta u objetivo. Un indicador puede ser la evidencia del avance o estado de un proceso específico, pero el conjunto de varios indicadores bien analizados puede mostrar la situación de la empresa.
         .cajon.color-primario.p-4
           p.mb-0 La principal función de los indicadores de gestión es la de evaluar la implementación de la planeación estratégica y el alcance de sus propósitos; por eso, dentro de sus características principales, se encuentra el ser accesible, explícito (concreto), objetivo, sensible, fidedigno y sobre todo, pertinente.
       .col-lg-5(data-aos="fade-left")
@@ -44,7 +44,7 @@
           .tarjeta.color-primario
             .p-4
               p.text-center Facilitan la identificación de las problemáticas que se presentan y las que podrían llegar a surgir.
-    p.mb-5(data-aos="fade-down") Los principales motivadores para hacer uso de los indicadores de gestión son los que:
+    p.mb-5(data-aos="fade-down") Existen diversos tipos de indicadores de gestión, los cuales son:
     figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema5/img4.svg')
     p.mb-5(data-aos="fade-down") Ahora, para generar o crear indicadores de gestión, se deben tener en cuenta diferentes pasos (Figura 3), porque el nivel de credibilidad y certeza del indicador, dependerá de su asertividad en la formulación.
@@ -72,7 +72,7 @@
     #t_5_2
     .titulo-segundo.color-acento-contenido
       h2 5.2 Los planes en la administración
-    .row.mb-5
+    .row.mb-4
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema5/img3.png', style="width:450px").m-auto
@@ -90,6 +90,7 @@
           .col-auto
             figure
               img(src='@/assets/curso/tema5/img7.svg', style="width:30px")
+    p.mb-5 Existen diversos tipos de planes en las organizaciones, los cuales serán abordados a continuación.
     .row.align-items-center.mb-4(data-aos="fade-up")
       .col-auto.pe-0
         figure
@@ -131,7 +132,7 @@
         p.text-center.text-white Medidas para evaluar el proceso.
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Empresarialmente hablando, son tres los tipos recurrentes de planes de acción que se manejan: los estratégicos, que hacen referencia a cómo se hará realidad la estrategia; los comerciales, que permiten a los directivos visualizar las acciones a emprender para captar y mantenerse en el mercado ¿qué vender?, ¿a quién venderlo?, ¿cómo venderlo?, y los de mercadeo, que consisten en organizar y hacer seguimiento a la estrategia de marketing durante un periodo de tiempo determinado (campañas, contenido, etc.). Al construir un plan de acción, una de las variables más importantes a tener en cuenta y bien definida, es la del tiempo; por esto también el cronograma resulta fundamental para el seguimiento y para la evaluación del cumplimiento de las actividades.
+        p Empresarialmente hablando, son tres los tipos recurrentes de planes de acción que se manejan: los estratégicos, que hacen referencia a cómo se hará realidad la estrategia; los comerciales, que permiten a los directivos visualizar las acciones a emprender para captar y mantenerse en el mercado ¿qué vender?, ¿a quién venderlo?, ¿cómo venderlo?, y los de mercadeo, que consisten en organizar y hacer seguimiento a la estrategia de #[i marketing] durante un periodo de tiempo determinado (campañas, contenido, etc.). Al construir un plan de acción, una de las variables más importantes a tener en cuenta y bien definida, es la del tiempo; por esto también el cronograma resulta fundamental para el seguimiento y para la evaluación del cumplimiento de las actividades.
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema5/img4.png', style="width:450px").m-auto
@@ -176,13 +177,13 @@
         figure
           img(src='@/assets/curso/tema5/img5.png', style="width:450px").m-auto
       .col-lg-7(data-aos="fade-left")
-        p Este plan consiste en validar las diferentes acciones o actividades que se desarrollan durante el periodo planteado en el cronograma; es una manera de comprobar que se están implementando tareas encaminadas a los objetivos estratégicos en cada una de las fases. Una correcta gestión del plan de seguimiento implica decidir quién va a llevar a cabo el seguimiento y cómo lo realizará. Una de las metodologías es la de auditorías, que son visitas y levantamiento de información de procesos a través de visitas, entrevistas o checklist, donde se indaga sobre la realización de los procesos o procedimientos, con la probabilidad que sean identificadas acciones no procedentes, deficiencias o errores en el hacer.
+        p Este plan consiste en validar las diferentes acciones o actividades que se desarrollan durante el periodo planteado en el cronograma; es una manera de comprobar que se están implementando tareas encaminadas a los objetivos estratégicos en cada una de las fases. Una correcta gestión del plan de seguimiento implica decidir quién va a llevar a cabo el seguimiento y cómo lo realizará. Una de las metodologías es la de auditorías, que son visitas y levantamiento de información de procesos a través de visitas, entrevistas o #[i checklist], donde se indaga sobre la realización de los procesos o procedimientos, con la probabilidad que sean identificadas acciones no procedentes, deficiencias o errores en el hacer.
     .row.align-items-center.mb-4(data-aos="fade-up")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
       .col
-        h3.mb-0 Planes de seguimiento
+        h3.mb-0 Planes de contingencia
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Un plan de contingencia detalla las acciones a tomar para que una empresa pueda continuar con su operación en caso de imprevistos, crisis o emergencias (climáticas, financieras, orden público). Independientemente de la situación que se presente, la organización se debe encontrar preparada para afrontarlo sin interrumpir su operación. Son variables que no pueden ser controladas por la empresa, pero que sí tiene la responsabilidad de preparar cómo sería el impacto de ellas en la realidad de la operación y funcionamiento. El plan de contingencia tiene varios propósitos: proteger la vida, la seguridad y la integridad de los colaboradores o los visitantes, llámense clientes o proveedores; otro, es el de preservar la empresa, con el fin de seguir aportando social y económicamente al mercado, entendiendo que con ello también se salvaguarda el empleo que se genera, las transacciones que implican relaciones con otras organizaciones y, por supuesto, el consumo de los productos y servicios.
