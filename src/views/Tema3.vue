@@ -95,7 +95,7 @@
         figure
           img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
       .col
-        h3.mb-0 Instrumentos de análisis estratégicoInstrumentos de análisis estratégico
+        h3.mb-0 Instrumentos de análisis estratégico
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterada o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
