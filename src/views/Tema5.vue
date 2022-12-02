@@ -145,7 +145,6 @@
       .py-3.py-md-4(titulo="Diagrama de Gantt")
         .row.justify-content-center.m-1
           .col-lg-4.mb-4.mb-lg-0
-            h4 Diagrama de Gantt
             p Las tareas se distribuyen con una barra temporal, indicando la duración de tiempo que tomará la actividad (entre más duración, más larga la barra). Es una de las metodologías de cronograma más utilizadas en la práctica empresarial.
           .col-lg-6
             figure
@@ -153,7 +152,6 @@
       .py-3.py-md-4(titulo="Diagrama de Pert")
         .row.justify-content-center.m-1
           .col-lg-4.mb-4.mb-lg-0
-            h4 Diagrama de Pert
             p En este tipo de cronograma se prioriza la relación entre las diferentes tareas, y no la de sus fechas de ejecución. Se representa en celdas y se relacionan unas entre otras, con flechas; el orden de las celdas depende de la prioridad de las actividades.
           .col-lg-6
             figure
@@ -161,7 +159,6 @@
       .py-3.py-md-4(titulo="Diagrama de hitos")
         .row.justify-content-center.m-1
           .col-lg-4.mb-4.mb-lg-0
-            h4 Diagrama de hitos
             p Este cronograma incluye solamente las tareas más importantes para el proyecto, agrupándolas según las fechas de entrega.
           .col-lg-6
             figure

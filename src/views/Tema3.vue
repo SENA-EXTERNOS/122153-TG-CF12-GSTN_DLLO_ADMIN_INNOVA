@@ -95,7 +95,7 @@
         figure
           img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
       .col
-        h3.mb-0 Instrumentos de análisis estratégicoInstrumentos de análisis estratégico
+        h3.mb-0 Instrumentos de análisis estratégico
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterada o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
@@ -150,7 +150,6 @@
             figure
               img(src='@/assets/curso/tema3/img6.svg')
           .col-lg-6
-            h4 Matrices de posicionamiento
             p Proporcionan la “posición” de un proyecto o empresa con referencia al entorno o al mercado en el que opera.
       .py-3.py-md-4(titulo="Matrices de evaluación")
         .row.m-1
@@ -158,7 +157,6 @@
             figure
               img(src='@/assets/curso/tema3/img7.svg')
           .col-lg-6
-            h4 Matrices de evaluación
             p Proporcionan una valoración de aspectos internos o externos de la empresa, para proyectar una orientación acerca de la estrategia a emprender, de acuerdo con la realidad evidenciada.
     p.mb-5(data-aos="fade-right") Algunas de las matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión.
     .row.justify-content-center(data-aos="fade-left")
