@@ -150,7 +150,6 @@
             figure
               img(src='@/assets/curso/tema3/img6.svg')
           .col-lg-6
-            h4 Matrices de posicionamiento
             p Proporcionan la “posición” de un proyecto o empresa con referencia al entorno o al mercado en el que opera.
       .py-3.py-md-4(titulo="Matrices de evaluación")
         .row.m-1
@@ -158,7 +157,6 @@
             figure
               img(src='@/assets/curso/tema3/img7.svg')
           .col-lg-6
-            h4 Matrices de evaluación
             p Proporcionan una valoración de aspectos internos o externos de la empresa, para proyectar una orientación acerca de la estrategia a emprender, de acuerdo con la realidad evidenciada.
     p.mb-5(data-aos="fade-right") Algunas de las matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión.
     .row.justify-content-center(data-aos="fade-left")
