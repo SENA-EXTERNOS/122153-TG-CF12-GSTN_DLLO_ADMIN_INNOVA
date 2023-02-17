@@ -5,188 +5,268 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Teoría general de sistemas
-    .row.mb-0.mb-lg-4
+      h1 Métricas y planes de acción en las empresas
+    .row
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img1.png', style="width:450px").m-auto
+          img(src='@/assets/curso/tema5/img1.png', style="width:450px").m-auto
       .col-lg-7(data-aos="fade-left")
-        p Surge de una serie de estudios interdisciplinarios cuyo propósito es el de explicar el funcionamiento e impacto de los sistemas en todos los niveles. El sistema como un todo, está constituido por partes que se encuentran interrelacionadas y dependen unas de las otras; el cambio en una de esas partes del sistema afecta a las demás. El crecimiento positivo de un sistema depende de la capacidad de adaptación al entorno y a las dinámicas cambiantes. La teoría de sistemas tiene como objetivo descubrir las condiciones y las restricciones que se presentan para discernir la aplicación de una acción ampliamente, en lugar de hacerlo de manera particular. Esta teoría tuvo su origen en el campo de la biología; sin embargo, los resultados obtenidos mostraron la posibilidad y oportunidad de generar su influencia en otros ámbitos.
-    p.mb-5(data-aos="fade-up") Existen dos tipos de sistemas:
-    .row.mb-5(data-aos="fade-right")
-      .col-lg-6.bg-c4.p-5
-        figure.mb-5
-          img(src='@/assets/curso/tema4/img1.svg', style="width:450px").m-auto
-        h3.text-center Abierto
-        p.text-center.mb-0 Está en constante relación con el ambiente o su entorno.
-      .col-lg-6.bg-c5.p-5
-        figure.mb-5
-          img(src='@/assets/curso/tema4/img2.svg', style="width:320px").m-auto
-        h3.text-center Cerrado
-        p.text-center.mb-0 No hay relación con el entorno, porque no lo necesita para cumplir con su función.
-    p.mb-5(data-aos="fade-left") Con la llegada de esta teoría, se dio paso a la conformación y estructuración de modelos que permiten el funcionamiento planeado y organizado de la empresa como, por ejemplo, el sistema de gestión de la calidad, el cual es un conjunto de elementos que le posibilita a las empresas aplicar el ciclo PHVA en las actividades requeridas y necesarias para el cumplimiento de la misión, la visión y los objetivos organizacionales, estableciendo políticas, normas, procesos y procedimientos que permitan ofertar, al mercado, servicios y productos con estándares de calidad altos, así como también generar confianza entre los usuarios o clientes y propiciar sostenibilidad en el tiempo.
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-8
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema4/img2.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p Los principios que rigen el sistema de gestión de la calidad son:
-              br
-              br
-              ul.lista-ul
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Liderazgo.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Enfoque al usuario o cliente.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Mejora continua.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Decisiones orientadas en pruebas.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Compromiso de las personas.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Enfoque a procesos.
-                li.mb-0
-                  i.fas.fa-check(style="color:#F85316")
-                  | Gestión de las relaciones.
-    p(data-aos="fade-right") Todos estos principios, orientados hacia el logro de los objetivos y metas de la empresa, y con la aplicación adecuada de un Sistema de Gestión de Calidad, pueden llegar a alcanzar: reducción en los costos, incremento de la rentabilidad del negocio, aumento de la satisfacción de los clientes, mejora de la imagen de la empresa en el mercado, diferenciación positiva con relación a la competencia, entre otros.
-    p.mb-5(data-aos="fade-down") Por otra parte, existen varios conceptos asociados al Sistema de Gestión de la Calidad, que obran y actúan con objetivos específicos; estos conceptos son:
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
-      .row(titulo="Control de calidad")
-        .col-lg.mb-4.mb-lg-0
-          p Se define como el mecanismo de control determinado para verificar las condiciones de calidad de un producto o servicio durante su proceso de producción, con el propósito de evitar fallas en el mercado. El control de calidad también permite evaluar el nivel de eficiencia de los sistemas, obteniendo la evidencia de procesos susceptibles de mejorar o de corregir, conociendo además las causas que los producen. Para implementar el control de calidad es preciso realizar un diagnóstico de las etapas claves a ser revisadas en el proceso productivo, y además un instrumento o herramienta para la evaluación de estas etapas. 
-          p.mb-0 Es importante aclarar que, el control de calidad no se encuentra solamente en una parte de la etapa productiva, sino también durante toda la etapa de producción, a partir de los procesos administrativos de verificación, chequeo visual, testeo y análisis. Por otra parte, el control de calidad es posible que sea realizado por cualquier persona de la organización y, en cualquier momento; por lo tanto, es responsabilidad de todos los que intervienen en la elaboración de productos y servicios, prevenir errores y alertar sobre fallas o procesos ejecutados de manera incorrecta.
-        .col-lg-auto
-          figure
-            img(src='@/assets/curso/tema4/img3.png', style="width: 350px").m-auto
-      .row(titulo="Estándar de calidad")
-        .col-lg.mb-4.mb-lg-0
-          p Se define como los puntos de referencia que son utilizados para puntualizar un grupo pequeño (en la mayoría de los casos) de condiciones, con el interés que las características y elementos de un producto o servicio, sean también recibidos por el cliente y consumidor, por su capacidad de satisfacer las diversas expectativas y necesidades de este. Algunas de las características de los estándares de calidad son:
-          ul.lista-ul
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Plantear una cantidad precisa del producto.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Establecer un ritmo de distribución puntual.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Fijar precios con relación a las variables de oferta y demanda.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Garantizar agilidad en servicio al cliente.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Brindar facilidades de uso.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              | Proponer niveles óptimos de seguridad.
-        .col-lg-auto
-          figure
-            img(src='@/assets/curso/tema4/img4.png', style="width: 350px").m-auto
-      .row(titulo="Criterio de calidad")
-        .col-lg.mb-4.mb-lg-0
-          p Es un indicador que resume en la medida de las posibilidades, la condición de calidad del proceso o producto. Un indicador debidamente formulado debe tener validez y asegurar que realmente se mida lo que se pretende, porque debe ser útil para que, de los resultados, puedan surgir acciones de mejora.
-        .col-lg-auto
-          figure
-            img(src='@/assets/curso/tema4/img5.png', style="width: 350px").m-auto
-      .row(titulo="Aseguramiento de calidad")
-        .col-lg.mb-4.mb-lg-0
-          p Puede definirse como el conjunto de acciones que se desarrollan con la intención de poder entregar al mercado y a los consumidores, productos y servicios con el nivel de calidad esperada; su aplicación genera confianza y seguridad a la hora de colocar bienes en el mercado. Para el desarrollo e implementación del modelo de aseguramiento de la calidad, se debe tener en cuenta lo siguiente:
-          ul.lista-ul
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              |
-              p.mb-0 #[b Convencimiento de los directivos:] para el cumplimiento del aseguramiento de la calidad, es necesario que los directivos se encuentren convencidos.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              |
-              p.mb-0 #[b Elección del sistema y comunicación:] se deberá elegir el modelo de aseguramiento de calidad a utilizar y, posteriormente, esta información debe comunicarse a todos en la empresa, para obtener su participación y compromiso.
-            li.mb-0
-              i.fas.fa-check(style="color:#F85316")
-              |
-              p.mb-0 #[b Selección del responsable de la implementación:] se debe elegir a una persona que asuma el mando, como responsable para desarrollar todo el proceso e implementación del proyecto, apoyada por un comité de calidad.
-        .col-lg-auto
-          figure
-            img(src='@/assets/curso/tema4/img6.png', style="width: 350px").m-auto
+        p Comúnmente se escucha la frase “lo que no se mide, no es susceptible de mejora”, y esto representa una realidad también para las empresas, puesto que, si no se tiene certeza de la proximidad que existe con procesos óptimos y de calidad, no se podrá disponer de acciones para mejorar o realizar ajustes correctivos. Por esta razón, se realiza la implementación de los indicadores como métricas de valor, los cuales permiten generar comparativos en pro del perfeccionamiento en la operación de la empresa.
+    Separador
+    
+    #t_4_1
+    .titulo-segundo.color-acento-contenido
+      h2 4.1 Indicadores de gestión
+    .row.mb-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        p Evaluar conclusiones resulta indispensable si la aspiración es administrar una empresa o proyecto con responsabilidad y buscar la sostenibilidad y supervivencia. Por esta razón, conocer los #[b indicadores de gestión] termina siendo, más que una opción, una necesidad. Ellos son una expresión, valor, o signo cuantitativo o cualitativo que muestran el desempeño o el logro en el proceso; sin embargo, en sí mismos, no dicen mucho; por esta razón, es preciso también definir valores de referencia para ser comparados a la luz de una meta u objetivo. Un indicador puede ser la evidencia del avance o estado de un proceso específico, pero el conjunto de varios indicadores bien analizados puede mostrar la situación de la empresa.
+        .cajon.color-primario.p-4
+          p.mb-0 La principal función de los indicadores de gestión es la de evaluar la implementación de la planeación estratégica y el alcance de sus propósitos; por eso, dentro de sus características principales, se encuentra el ser accesible, explícito (concreto), objetivo, sensible, fidedigno y sobre todo, pertinente.
+      .col-lg-5(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema5/img2.png', style="width:450px").m-auto
+    p.mb-5(data-aos="fade-up") Los principales motivadores para hacer uso de los indicadores de gestión son los que:
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema5/img1.svg' alt='AvatarTop')
+          .tarjeta.color-primario
+            .p-4
+              p.text-center Contribuyen activamente y de manera contundente, en la toma de decisiones.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema5/img2.svg' alt='AvatarTop')
+          .tarjeta.color-primario
+            .p-4
+              p.text-center Manifiestan la eficiencia de las actividades y acciones de la empresa, conjuntamente.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema5/img3.svg' alt='AvatarTop')
+          .tarjeta.color-primario
+            .p-4
+              p.text-center Facilitan la identificación de las problemáticas que se presentan y las que podrían llegar a surgir.
+    p.mb-5(data-aos="fade-down") Existen diversos tipos de indicadores de gestión, los cuales son:
+    figure.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/tema5/img4.svg')
+    p.mb-5(data-aos="fade-down") Ahora, para generar o crear indicadores de gestión, se deben tener en cuenta diferentes pasos (Figura 3), porque el nivel de credibilidad y certeza del indicador, dependerá de su asertividad en la formulación.
+    .row.mb-5(data-aos="fade-left")
+      .col-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          p.mb-0 #[b Figura 3] 
+          p.mb-0 #[em Pasos para generar indicadores de gestión] 
+        figure
+          img(src='@/assets/curso/tema5/img5.svg')
+    
+    p(data-aos="fade-right") Para profundizar en las metodologías y el paso a paso de construcción de indicadores de gestión, lo invitamos a consultar el material complementario.
+    
+    p(data-aos="fade-right") Todos los conceptos que han sido abordados en el componente formativo, hacen alusión a la planeación organizacional y al cómo materializarla, dado que las intenciones estratégicas son generales, pero para llegar a ellas, su consecución debe ser desde lo operativo. Esa acción o esas actividades que conllevan al logro de la estrategia y que dan el paso a paso, también hacen parte de un concepto administrativo denominado PLANES. 
+
+    
+    Separador
+    #t_4_2
+    .titulo-segundo.color-acento-contenido
+      h2 4.2 Los planes en la administración
     .row.mb-4
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img7.png', style="width:450px").m-auto
+          img(src='@/assets/curso/tema5/img3.png', style="width:450px").m-auto
       .col-lg-7(data-aos="fade-left")
-        p Como parte del Sistema de Gestión de la Calidad, se encuentra también el marco normativo, que, en aras de estandarizar esos criterios de calidad, proporciona pautas a seguir.
-        p Para el planteamiento de los estándares de calidad, existe la Organización Internacional de Normalización -ISO-, federación (no gubernamental) mundial de organismos nacionales de normalización, que reúne expertos para debatir y compartir experiencia y conocimientos en materia de normatividad internacional; es la organización responsable de la elaboración de normas y guías que contienen lineamientos en todos los sectores e industrias, facilitando el intercambio de productos y servicios y ejercer de estímulo para la cooperación intelectual, tecnológica, económica y científica, a nivel mundial. El trabajo de preparación de las normas internacionales es realizado a partir de los comités técnicos de ISO. Para conocer más a profundidad el proceder de esta entidad, lo invitamos a consultar el material complementario.
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+        p Los objetivos estratégicos de las empresas y el cumplimiento de ellos, se logra a través de una planificación, el planteamiento del qué se hará y con qué recursos. Por eso, cuando se habla de planes en el contexto empresarial, se hace referencia al derrotero a seguir, definiendo variables como tiempo, actividades y recursos.
+        .row
+          .col-auto
+            figure
+              img(src='@/assets/curso/tema5/img6.svg', style="width:30px")
+          .col
+            p Dice Arbaiza (2014), que “la administración estratégica no es posible sin coordinación y sin un plan de acción en el que cada miembro de la empresa pueda trabajar en un esfuerzo conjunto. Por otro lado, una estrategia puede estar muy bien diseñada, pero si la ejecución es deficiente, la administración falla”.
+        .row.justify-content-end
+          .col-auto
+            p #[b Arbaiza (2014) (p.101).]
+          .col-auto
+            figure
+              img(src='@/assets/curso/tema5/img7.svg', style="width:30px")
+    p.mb-5 Existen diversos tipos de planes en las organizaciones, los cuales serán abordados a continuación.
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Planes de acción
+    p(data-aos="fade-right") Un plan de acción es una proyección que tiene una empresa y que establece el camino para la consecución de las metas, reflejando la ruta a seguir.
+    p.mb-5(data-aos="fade-left") Para lograr su ejecución, un plan de acción debe contener los siguientes elementos:
+    SlyderF.mb-5(columnas="col-9 col-md-6 col-xl-3")(data-aos="fade-right")
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img8.svg' alt='AvatarTop')
+        p.text-center.text-white Descripción clara y definida del objetivo a alcanzar.
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img9.svg' alt='AvatarTop')
+        p.text-center.text-white Actividades o pasos a realizar, para llegar a la meta trazada.
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img10.svg' alt='AvatarTop')
+        p.text-center.text-white Personas responsables de las actividades o tareas.
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img11.svg' alt='AvatarTop')
+        p.text-center.text-white Fechas y tiempos para completar las tareas.
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img12.svg' alt='AvatarTop')
+        p.text-center.text-white Recursos necesarios para cumplir y llevar a cabo las tareas.
+      .tarjeta.color-secundario1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/tema5/img13.svg' alt='AvatarTop')
+        p.text-center.text-white Medidas para evaluar el proceso.
+    .row.mb-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        p Empresarialmente hablando, son tres los tipos recurrentes de planes de acción que se manejan: los estratégicos, que hacen referencia a cómo se hará realidad la estrategia; los comerciales, que permiten a los directivos visualizar las acciones a emprender para captar y mantenerse en el mercado ¿qué vender?, ¿a quién venderlo?, ¿cómo venderlo?, y los de mercadeo, que consisten en organizar y hacer seguimiento a la estrategia de #[i marketing] durante un periodo de tiempo determinado (campañas, contenido, etc.). Al construir un plan de acción, una de las variables más importantes a tener en cuenta y bien definida, es la del tiempo; por esto también el cronograma resulta fundamental para el seguimiento y para la evaluación del cumplimiento de las actividades.
+      .col-lg-5(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema5/img4.png', style="width:450px").m-auto
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 El estándar de normas de calidad más común y extendido actualmente, es el planteado por las ISO; a partir de ahí, se propone la condición para llevar adelante la gestión de la calidad y el desarrollo de los sistemas de calidad y mejora continua en una empresa.
-    p.mb-5(data-aos="fade-down") Estos estándares no solo hacen referencia al área de calidad, sino que contemplan la estructura funcional de la organización, los procesos, procedimientos y recursos del sistema:
-    .row.justify-content-center(data-aos="fade-left")
-      .col-lg-10
-        LineaTiempoB.color-acento-contenido(:datos="datosLineaTiempoB")
+          p.mb-0 Pero, ¿qué es un cronograma? Es un calendario de actividades donde se dejan, de manera específica, las etapas o fases de un proceso o proyecto. Lo que se logra con esta herramienta es definir el alcance de los trabajos, la estructura desglosada y la información visualmente organizada, teniendo en cuenta que el significado de la palabra hace alusión al “orden de los tiempos”.
+    p.mb-5(data-aos="fade-right") Existen diferentes técnicas y estrategias para realizar cronogramas:
+    TabsC.color-acento-contenido.mb-5(data-aos="fade-left")
+      .py-3.py-md-4(titulo="Diagrama de Gantt")
+        .row.justify-content-center.m-1
+          .col-lg-4.mb-4.mb-lg-0
+            p Las tareas se distribuyen con una barra temporal, indicando la duración de tiempo que tomará la actividad (entre más duración, más larga la barra). Es una de las metodologías de cronograma más utilizadas en la práctica empresarial.
+          .col-lg-6
+            figure
+              img(src='@/assets/curso/tema5/img14.svg')
+      .py-3.py-md-4(titulo="Diagrama de Pert")
+        .row.justify-content-center.m-1
+          .col-lg-4.mb-4.mb-lg-0
+            p En este tipo de cronograma se prioriza la relación entre las diferentes tareas, y no la de sus fechas de ejecución. Se representa en celdas y se relacionan unas entre otras, con flechas; el orden de las celdas depende de la prioridad de las actividades.
+          .col-lg-6
+            figure
+              img(src='@/assets/curso/tema5/img15.svg')
+      .py-3.py-md-4(titulo="Diagrama de hitos")
+        .row.justify-content-center.m-1
+          .col-lg-4.mb-4.mb-lg-0
+            p Este cronograma incluye solamente las tareas más importantes para el proyecto, agrupándolas según las fechas de entrega.
+          .col-lg-6
+            figure
+              img(src='@/assets/curso/tema5/img16.svg')
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Planes de seguimiento
+    .row.mb-5
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/tema5/img5.png', style="width:450px").m-auto
+      .col-lg-7(data-aos="fade-left")
+        p Este plan consiste en validar las diferentes acciones o actividades que se desarrollan durante el periodo planteado en el cronograma; es una manera de comprobar que se están implementando tareas encaminadas a los objetivos estratégicos en cada una de las fases. Una correcta gestión del plan de seguimiento implica decidir quién va a llevar a cabo el seguimiento y cómo lo realizará. Una de las metodologías es la de auditorías, que son visitas y levantamiento de información de procesos a través de visitas, entrevistas o #[i checklist], donde se indaga sobre la realización de los procesos o procedimientos, con la probabilidad que sean identificadas acciones no procedentes, deficiencias o errores en el hacer.
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Planes de contingencia
+    .row.mb-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        p Un plan de contingencia detalla las acciones a tomar para que una empresa pueda continuar con su operación en caso de imprevistos, crisis o emergencias (climáticas, financieras, orden público). Independientemente de la situación que se presente, la organización se debe encontrar preparada para afrontarlo sin interrumpir su operación. Son variables que no pueden ser controladas por la empresa, pero que sí tiene la responsabilidad de preparar cómo sería el impacto de ellas en la realidad de la operación y funcionamiento. El plan de contingencia tiene varios propósitos: proteger la vida, la seguridad y la integridad de los colaboradores o los visitantes, llámense clientes o proveedores; otro, es el de preservar la empresa, con el fin de seguir aportando social y económicamente al mercado, entendiendo que con ello también se salvaguarda el empleo que se genera, las transacciones que implican relaciones con otras organizaciones y, por supuesto, el consumo de los productos y servicios.
+      .col-lg-5(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema5/img6.png', style="width:450px").m-auto
+    p.mb-5(data-aos="fade-down") Para plantear un plan de contingencia se deben tener en cuenta estos 10 pasos:
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-8
+        PasosA.color-acento-contenido(tipo="n")
+          .row.align-items-center
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img17.svg', style="width:90px")
+            .col
+              p.mb-0 Identificar riesgos.
+          .row.align-items-center
+            .col
+              p.mb-0 Determinar actividades prioritarias y críticas.
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img18.svg', style="width:90px")
+          .row.align-items-center
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img19.svg', style="width:90px")
+            .col
+              p.mb-0 Determinar qué se necesita en la empresa para seguir operando.
+          .row.align-items-center
+            .col
+              p.mb-0 Seleccionar al líder o responsable de llevar a cabo el plan.
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img20.svg', style="width:90px")
+          .row.align-items-center
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img21.svg', style="width:90px")
+            .col
+              p.mb-0 Establecer estrategias de protección antes del suceso y las medidas de contingencia y mitigación al momento del mismo.
+          .row.align-items-center
+            .col
+              p.mb-0 Responder ante el incidente, estabilizando la situación y eliminando los peligros y amenazas.
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img22.svg', style="width:90px")
+          .row.align-items-center
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img23.svg', style="width:90px")
+            .col
+              p.mb-0 Definir locación para continuar la operación.
+          .row.align-items-center
+            .col
+              p.mb-0 Disponer las reservas para los gastos regulares mínimos.
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img24.svg', style="width:90px")
+          .row.align-items-center
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img25.svg', style="width:90px")
+            .col
+              p.mb-0 Hacer simulacros y corregir errores para garantizar que funcione.
+          .row.align-items-center
+            .col
+              p.mb-0 Revisar periódicamente el plan y corregir lo que sea necesario, para garantizar su vigencia.
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/tema5/img26.svg', style="width:90px")
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Planes de mejoramiento
+    p.mb-5(data-aos="fade-right") Liderar una empresa o proyecto para lograr los objetivos establecidos no es sencillo, y menos cuando resultan sucesos o hallazgos poco convenientes con la operación. Para esto surge la herramienta del plan de mejoramiento, como mecanismo de solución y mitigación de las deficiencias identificadas; se trata de aplicar una técnica efectiva que permita operaciones más eficientes, la mejora de la gestión organizacional, tomar mejores decisiones, aumento de la productividad, satisfacción de los colaboradores y de los clientes. Para elaborar un plan de mejoramiento se pueden tomar como base los siguientes siete pasos:
+    .row(data-aos="fade-left")
+      .col-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          p.mb-0 #[b Figura 4] 
+          p.mb-0 #[em Pasos para elaborar el plan de mejoramiento] 
+        figure
+          img(src='@/assets/curso/tema5/img27.svg')
 
 </template>
 
 <script>
 export default {
-  name: 'Tema4',
+  name: 'Tema5',
   data: () => ({
-    datosLineaTiempoB: [
-      {
-        titulo:
-          'Norma ISO 9000. Sistemas de gestión de la calidad, fundamentos y conceptos',
-        texto:
-          'Esta norma contiene los elementos conceptuales, vocabulario y aspectos generales; además, contiene los principios de gestión de calidad que se consolidan como base para aplicar la norma.',
-        icono: require('@/assets/curso/tema4/img3.svg'),
-      },
-      {
-        titulo: 'Norma ISO 9001. Sistemas de gestión de calidad, requisitos',
-        texto:
-          'Contiene las exigencias mínimas para la certificación de una empresa en sistema de gestión de calidad.',
-        icono: require('@/assets/curso/tema4/img4.svg'),
-      },
-      {
-        titulo:
-          'Norma ISO 9004. Gestión de la calidad. Calidad en la organización. Orientación para lograr el éxito sostenido',
-        texto:
-          'Contiene los lineamientos orientados para conseguir el éxito de manera que permanezca en el tiempo y para que las expectativas del cliente o consumidor se sostengan a lo largo del tiempo.',
-        icono: require('@/assets/curso/tema4/img5.svg'),
-      },
-      {
-        titulo:
-          'Norma ISO 19011. Directrices para la auditoría de los sistemas de gestión',
-        texto:
-          'Contiene la descripción de los elementos requeridos al momento de ejecutar las auditorías al sistema de gestión de calidad.',
-        icono: require('@/assets/curso/tema4/img6.svg'),
-      },
-      {
-        titulo:
-          'Norma ISO 27001. Sistema de gestión de seguridad de la información',
-        texto:
-          'Constituida por elementos para mejorar el cumplimiento de los requisitos de seguridad de la información, la protección de los datos y la prevención del riesgo en términos de información personal identificable. Esta norma ayuda a las organizaciones a establecer un enfoque integral de la seguridad de la información; además de esto garantiza la confidencialidad de la información, que solo sea accesible a las personas que corresponda y también la protección contra el fraude informático.',
-        icono: require('@/assets/curso/tema4/img7.svg'),
-      },
-      {
-        titulo: 'Norma ISO 14001. Sistema de gestión ambiental',
-        texto:
-          'Proporciona a las empresas un marco con el cual se busca la protección del medio ambiente y dar respuesta a las condiciones ambientales fluctuantes, propendiendo por el equilibrio con las necesidades sociales y económicas del entorno. Se detallan todos los requisitos para instaurar un Sistema de Gestión Ambiental eficaz, estableciendo un enfoque sistémico para la gestión del medio ambiente, generando que las directivas empresariales cuenten con información suficiente para garantizar su implementación con éxito a largo plazo.',
-        icono: require('@/assets/curso/tema4/img8.svg'),
-      },
-      {
-        titulo: 'Norma ISO 45001. Sistema de Seguridad y Salud en el Trabajo',
-        texto:
-          'Esta norma se centra en proporcionar a la empresa la información sobre elementos importantes que puedan llegar a afectar tanto positiva como negativamente y cómo se logra la gestión de responsabilidad de la empresa hacia los colaboradores en salud y seguridad en el trabajo (enfermedades laborales, accidentes, incidentes, seguridad, riesgos, entre otros).',
-        icono: require('@/assets/curso/tema4/img9.svg'),
-      },
-    ],
+    // variables de vue
   }),
   mounted() {
     this.$nextTick(() => {

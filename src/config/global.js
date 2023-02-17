@@ -41,53 +41,45 @@ export default {
         titulo: 'Modelos gerenciales tradicionales y contemporáneos',
         desarrolloContenidos: true,
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Estructura administrativa',
+        titulo: 'Administración estratégica a partir del diagnóstico',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Administración estratégica a partir del diagnóstico',
+        titulo: 'Teoría general de sistemas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Teoría general de sistemas',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
-        numero: '5',
         titulo: 'Métricas y planes de acción en las empresas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '5.1',
+            numero: '4.1',
             titulo: 'Indicadores de gestión',
-            hash: 't_5_1',
+            hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '5.2',
+            numero: '4.2',
             titulo: 'Los planes en la administración',
-            hash: 't_5_2',
+            hash: 't_4_2',
           },
         ],
       },
       {
-        nombreRuta: 'tema6',
+        nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
-        numero: '6',
+        numero: '5',
         titulo: 'Informes organizacionales',
         desarrolloContenidos: true,
       },
@@ -135,14 +127,15 @@ export default {
   complementario: [
     {
       tema: 'Estructura administrativa',
-      referencia: 'Growp. (2017). <em>La estructura organizacional</em>.',
+      referencia:
+        'Growp. (2017). <em>La estructura organizacional</em>. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=NpsflJIWNIg&t=1s',
     },
     {
       tema: 'Administración estratégica a partir del diagnóstico',
       referencia:
-        'Barrios, C. (2021). <em>Tema: Análisis y Diagnóstico. Administración Estratégica</em>.',
+        'Barrios, C. (2021). <em>Tema: Análisis y Diagnóstico. Administración Estratégica</em>.  (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=2Zh0UbT95pA',
     },
@@ -153,13 +146,13 @@ export default {
       tipo: 'Página web',
       link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
     },
-    {
-      tema: 'Indicadores de gestión',
-      referencia:
-        'Convocatorias e Inscripciones SENA 2022. (2022). <em>Qué son los Indicadores de Gestión Sena 2022</em>.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=5QGuWriJFh8',
-    },
+    //{
+    //tema: 'Indicadores de gestión',
+    //referencia:
+    //  'Convocatorias e Inscripciones SENA 2022. (2022). <em>Qué son los Indicadores de Gestión Sena 2022</em>.',
+    //tipo: 'Video',
+    //link: 'https://www.youtube.com/watch?v=5QGuWriJFh8',
+    //},
   ],
   glosario: [
     {

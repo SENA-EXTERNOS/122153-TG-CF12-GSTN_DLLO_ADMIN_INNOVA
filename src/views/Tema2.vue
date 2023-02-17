@@ -5,130 +5,181 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Estructura administrativa
-    .row.mb-0.mb-lg-4
-      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+      h1 Administración estratégica a partir del diagnóstico
+    p.mb-5(data-aos="fade-right") Con el objetivo de profundizar sobre la administración estratégica a partir del diagnóstico y dar respuesta a preguntas como: ¿qué es?, ¿para qué sirve?, ¿cuáles son los tipos de estrategias administrativas? Lo invitamos a ver el siguiente video, el cual aborda la temática de manera específica:
+    figure.mb-5(data-aos="fade-up")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p(data-aos="fade-left") Es así como el diagnóstico es el resultado documental de la recolección de una serie de información que debe ser considerada a la hora de tomar decisiones empresariales, porque permite obtener un estado del arte, una radiografía de lo que se tiene, para poder así proyectar lo que se debe hacer; esto forma parte de una buena administración estratégica, desde el reconocer para actuar.
+    p.mb-5(data-aos="fade-left") En la Figura 2 se aprecian algunas de las variables que se analizan para el diagnóstico, tanto interno como externo:
+    
+    .row.justify-content-center.mb-5(data-aos="fade-left")
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
+          p.mb-0 #[b Figura 2] 
+          p.mb-0 #[em Variables que se analizan para el diagnóstico en el análisis estratégico] 
         figure
-          img(src='@/assets/curso/tema2/img1.png', style="width:450px").m-auto
-      .col-lg-7(data-aos="fade-left")
-        p A continuación, se define la estructura administrativa como esquema que permite formalizar y representar las relaciones, las comunicaciones, los procesos de decisión y los procedimientos, que son ejecutados por un grupo de personas y su articulación, ya sea por departamentos, áreas, unidades, entre otros, y que están orientados hacia la obtención de unos objetivos empresariales determinados. La representación gráfica de la estructura organizacional es el organigrama, donde se indica la forma en que se interrelacionan distintas actividades, tareas o funciones.
-    p.mb-5(data-aos="fade-right") Algunas de las ventajas de desarrollar un apropiado esquema organizacional son las siguientes:
+          img(src='@/assets/curso/tema3/img1.svg')
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img1.svg' alt='AvatarTop')
-          .tarjeta.color-primario
-            .p-4
-              p Facilitar la toma de decisiones y el flujo de la información para satisfacer las necesidades internas, pero también las externas (de los clientes, proveedores y entidades reguladoras).
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img2.svg' alt='AvatarTop')
-          .tarjeta.color-primario
-            .p-4
-              p Definir la autoridad claramente, así como también, la responsabilidad de trabajos, equipos, áreas, divisiones y departamentos.
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img3.svg' alt='AvatarTop')
-          .tarjeta.color-primario
-            .p-4
-              p Crear los niveles de coordinación (integración) esperados en el desempeño de los trabajos, equipos, áreas, departamentos y divisiones, disponiendo procedimientos para una reacción rápida ante los cambios en el entorno.
+      .col-lg-10
+        .cajon.color-primario.p-4
+          p.mb-0 El análisis que se despliega a partir de la generación de información en la fase diagnóstica, proporciona a la organización la oportunidad de generar soluciones ante sus necesidades, dependiendo ellas de su situación en el mercado, su situación interna y sus objetivos a futuro. Existen dos tipos de diagnóstico: organizacional y cultural, y las técnicas para obtener esta información pueden ser cualitativas o cuantitativas.
+    p.mb-5(data-aos="fade-down") Las cualitativas son:
+    SlyderF.mb-5(columnas="col-9 col-md-6 col-xl-4")(data-aos="fade-right")
+      .tarjeta.color-secundario
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema3/img1.png' alt='AvatarTop')
+          .col-12.p-4
+            h4.text-center.text-white Observación
+            p.text-center.text-white.mb-0 Se da cuando el observador lo realiza como parte del grupo, participando en actividades dispuestas para el ejercicio diagnóstico.
+      .tarjeta.color-secundario
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema3/img2.png' alt='AvatarTop')
+          .col-12.p-4
+            h4.text-center.text-white Entrevista individual
+            p.text-center.text-white.mb-0 Se da a partir de la generación de un ambiente de confianza y afinidad entre el entrevistador y el entrevistado.
+      .tarjeta.color-secundario
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema3/img3.png' alt='AvatarTop')
+          .col-12.p-4
+            h4.text-center.text-white Análisis de documentos
+            p.text-center.text-white.mb-0 Se reúnen documentos con el fin de ser analizados e interpretados.
+      .tarjeta.color-secundario
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema3/img4.png' alt='AvatarTop')
+          .col-12.p-4
+            h4.text-center.text-white Discusión en pequeños grupos
+            p.text-center.text-white.mb-0 Sesiones grupales y dirigidas.
+      .tarjeta.color-secundario
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema3/img5.png' alt='AvatarTop')
+          .col-12.p-4
+            h4.text-center.text-white Dramatización
+            p.text-center.text-white.mb-0 Proporciona información sobre la percepción que las personas tienen sobre diversos temas.
+    p.mb-5(data-aos="fade-left") También se encuentran las técnicas cuantitativas. Las cuales son:
+    .row.justify-content-center.mb-4(data-aos="fade-right")
+      .col-sm-10.col-md-6.col-lg-5.mb-4
+        .crd_hover_txt1
+          .crd_hover_txt--img.mb-0         
+            img(src="@/assets/curso/tema3/img6.png")
+          .crd_hover_txt--font
+            .row.bg-c1.align-items-center
+              .col.p-2
+                h4.mb-0 Encuesta
+            .row.bg-c2
+              .col
+                .p-2.p-lg-4
+                  .row
+                    .col
+                      p.text-center Un cuestionario con preguntas que permitan aproximarse a la situación actual de estudio o análisis.
+      .col-sm-10.col-md-6.col-lg-5.mb-4
+        .crd_hover_txt1
+          .crd_hover_txt--img.mb-0         
+            img(src="@/assets/curso/tema3/img7.png")
+          .crd_hover_txt--font
+            .row.bg-c1.align-items-center
+              .col.p-2
+                h4.mb-0 Análisis de redes de comunicación
+            .row.bg-c2
+              .col
+                .p-2.p-lg-4
+                  .row
+                    .col
+                      p.text-center Se analiza cómo es la comunicación entre las personas, dentro de la organización.
+    p.mb-5 Es así como la obtención de información viabiliza el uso de la misma para la toma de decisiones, a partir del análisis e interpretación y, para hacerlo, existen unas herramientas y técnicas, una vez que se cuente con el contenido del diagnóstico. A continuación, se esbozan algunas de estas herramientas.
+    .row.align-items-center.mb-4(data-aos="fade-up")
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
+      .col
+        h3.mb-0 Instrumentos de análisis estratégico
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Recuerde que el diseño de estructura organizacional descentralizado y con autoridad delegada, soluciona algunas problemáticas, pero también crea otras. Cada tipo de estructura presenta inconvenientes; por ende, la clave se encuentra en seleccionar, según el tipo de empresa, una estructura que minimice esos inconvenientes, identificando variables que influencian el desempeño regular de la organización como, por ejemplo, los tres factores más representativos: ambientales, estratégicos y tecnológicos, que afectan la toma de decisiones en materia de diseño organizacional. Otros factores que pueden incidir, también pueden ser externos, como proveedores, consumidores y nuevos competidores.
-        .cajon.color-primario.p-4
-          p.mb-0 La evolución de los tipos de estructura ha marcado la necesidad de generar flexibilidad al interior de las empresas y también la capacidad de adaptarse a los cambios de manera ágil. Por esto es importante presentar el tipo de estructura tradicional y contemporánea, para así reconocer la variación.
+        p Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterada o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema2/img2.png', style="width:450px").m-auto
-    .row.align-items-center.mb-4(data-aos="fade-up")
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
-      .col
-        h3.mb-0 Estructura tradicional
-    .row.mb-0.mb-lg-4
-      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/tema2/img3.png', style="width:500px").m-auto
-      .col-lg-7(data-aos="fade-left")
-        p.mb-4.mb-lg-0 Es aquella estructura caracterizada por un diseño funcional, es decir, incluye la creación de puestos, equipos y departamentos con base en las actividades especializadas. A partir de ahí, el agrupamiento por funciones de los empleados (por áreas o departamentos) es la manera más apropiada, de más amplio uso y aceptación. Este tipo de estructura presenta ventajas y desventajas, puesto que, por un lado, permite la caracterización y asignación clara de responsabilidades y los colaboradores lo comprenden fácilmente. La similitud en tareas o funciones, posibilitan que la interacción genere soluciones y respaldo entre los integrantes de departamento o del área. La desventaja es que limita los puntos de vista porque los departamentos o áreas pierden la visión de empresa por focalizar sus intereses en lo que únicamente les corresponde. También esta estructura se define a partir del diseño del lugar de trabajo, estableciendo de forma geográfica las unidades (conservando el diseño funcional). Este diseño tiene sus ventajas, como el contacto directo con los clientes internos o externos, rápida respuesta por estar concentrada la información en el área geográfica determinada. Sin embargo, también se experimentan problemas de control y coordinación, puesto que, si las unidades regionales cuentan con procedimientos diferentes, será complicada su articulación
-    p.mb-5(data-aos="fade-right") Los tipos de estructura tradicional son:
-    TabsC.color-acento-contenido.mb-5(data-aos="fade-left")
-      .py-3.py-md-4(titulo="Funcional")
-        .row.m-1
-          .col-lg-6.mb-4.mb-lg-0
+          img(src='@/assets/curso/tema3/img9.png', style="width:450px").m-auto
+    .tarjeta.tarjeta--amarilla.p-4.p-lg-5.mb-5(data-aos="fade-up")
+      SlyderA(tipo="b")
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-lg-0
+            h4 Análisis PEST
+            p Puede ser utilizado para analizar el entorno en el que se quiere crear o establecer la empresa o proyecto, puesto que permite identificar cambios posibles en el entorno o en el sector, para detectar y capitalizar posibles oportunidades de crecimiento o expansión. El nombre PEST es un acrónimo que obedece a cuatro factores que se analizan: político, económico, sociocultural y tecnológico.
+          .col-lg-5
             figure
-              img(src='@/assets/curso/tema2/img5.svg')
-          .col-lg-6
-            p Se estructura en función de las ocupaciones o responsabilidades. Ha sido la estructura más utilizada históricamente, porque se cuenta con estabilidad a partir de la estandarización y especialización de los procesos. Por otro lado, esa concentración de esfuerzos del área, puede perder de vista los objetivos estratégicos de la empresa, porque deja de tener tanta relevancia; además, también puede resultar más compleja la comunicación entre los departamentos.
-      .py-3.py-md-4(titulo="Divisional")
-        .row.m-1
-          .col-lg-6.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema3/img5.svg', style="width:350px").m-auto
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-lg-0
+            h4 Análisis PESTEL
+            p Es la herramienta que complementa a la anterior, en dos factores y, además de tener en cuenta las variables políticas, económicas, sociales y tecnológicas, se analizan también las ecológicas y las legales.
+          .col-lg-5
             figure
-              img(src='@/assets/curso/tema2/img6.svg')
-          .col-lg-6
-            p Se estructura por áreas geográficas o por productos; esto beneficia que puedan estar alineados con los objetivos organizacionales. Sin embargo, es más complejo el logro de sinergia, puede generar duplicidad en los costos y hay menos aprendizaje colectivo.
-    p.mb-5(data-aos="fade-up") El modelo tradicional de administración que respalda esta estructura, está basado en los principios administrativos, definidos como la serie de fases o etapas que permiten llevar a cabo una actividad, con la existencia de diversos criterios acerca de la cantidad de etapas que lo constituyen, como se observa en la Figura 1.
-    .row.justify-content-center.mb-5(data-aos="fade-left")
-      .col-lg-8
-        .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 1.] Fases o etapas administrativas
-        figure
-          img(src='@/assets/curso/tema2/img7.svg')
-    .row.align-items-center.mb-4(data-aos="fade-up")
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img4.svg', style="width:20px")
-      .col
-        h3.mb-0 Estructura contemporánea o moderna
-    .row.mb-4.mb-lg-0
-      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p  Con la decantación y puesta a prueba de las estructuras administrativas tradicionales, han ido surgiendo nuevas formas que permiten dar respuesta con mayor celeridad a los requerimientos del mercado y del contexto; entre los diseños contemporáneos emergentes se encuentran los diseños multinacionales que utilizan las empresas de negocios múltiples que producen y venden productos en varios países. También se encuentra el diseño en red, que se enfoca en tener una autoridad compartida, la responsabilidad y los recursos distribuidos entre los participantes del proceso; eso quiere decir que deben estar permanentemente comunicados para alcanzar las metas comunes. La organización virtual también se consolida como un diseño contemporáneo, en tanto los integrantes de la organización deben estar en constante comunicación para la toma de decisiones en tiempo real y desde cualquier lugar; es un tipo de organización que está formada por redes, en evolución constante, y que utilizan todas las herramientas tecnológicas para el ejercicio de su labor, como si estuvieran en el mismo salón u oficina.
-      .col-lg-5(data-aos="fade-left")
-        figure
-          img(src='@/assets/curso/tema2/img4.png', style="width:450px").m-auto
-    p.mb-5(data-aos="fade-down") En términos de estructura administrativa, es común encontrar las siguientes configuraciones:
-    TabsC.color-acento-contenido.mb-5(data-aos="fade-left")
-      .py-3.py-md-4(titulo="Matricial")
-        .row.m-1
-          .col-lg-6.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema3/img2.svg', style="width:250px").m-auto
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-lg-0
+            h4 Análisis DOFA - FODA
+            p Una herramienta de análisis estratégico que posibilita analizar la situación interna y externa de una empresa o proyecto; análogamente es como la fotografía de la empresa o el proyecto en un momento determinado de tiempo. El nombre de esta herramienta está representado por las siglas que significan: Fortalezas, Oportunidades, Debilidades y Amenazas. Las fortalezas y debilidades forman parte del análisis interno, de las cosas que se pueden controlar, mientras que las oportunidades y las amenazas hacen parte del análisis externo, es decir, de las cosas o variables que no dependen de la empresa y, por ende, no se pueden controlar.
+          .col-lg-5
             figure
-              img(src='@/assets/curso/tema2/img8.svg')
-          .col-lg-6
-            p Una mezcla de los tipos de estructura funcional y divisional, que posibilita que un colaborador se comunique y tenga relación directa con dos jefes; por ejemplo, el jefe que hace acompañamiento a su función, pero también al jefe de otra división que se encuentra en otro país, lo que representa una línea de poder poco clara.
-      .py-3.py-md-4(titulo="Por proyecto")
-        .row.m-1
-          .col-lg-6.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema3/img3.svg', style="width:350px").m-auto
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-lg-0
+            h4 Factores claves de éxito (CSF)
+            p Son aquellos objetivos generales que la organización debe alcanzar para cumplir con los objetivos estratégicos, pues su alineación y estrecha relación con la estrategia de la empresa es directa, y, por lo tanto, con alta influencia sobre los resultados estratégicos. Es decir que, si la empresa detecta estos factores críticos de éxito y logra potencializar sus resultados, esto materializará la generación de valor y resultados positivos, a nivel estratégico para la empresa. Por ejemplo, si se define como factor crítico de éxito el aumento de la conciencia de marca, termina siendo un objetivo ambicioso pero gran generador de valor y de presencia en el mercado. Para trabajar en el logro de este objetivo, es preciso y necesario que los equipos asignados para trabajar en el tema, puedan definir los indicadores claves de rendimiento (KPI) de manera cuantitativa, para tener claridad frente al panorama sobre lo que se debe hacer, cuándo y cómo.
+          .col-lg-5
             figure
-              img(src='@/assets/curso/tema2/img9.svg')
-          .col-lg-6
-            p Una tendencia muy fuerte que están adoptando las empresas con el fin de ser capaces de adaptarse a los cambios acelerados del mercado. Independientemente de la estructura, llámese funcional, divisional o matricial, este esquema está orientado a crear proyectos, organizaciones temporales que pueden estar en varios departamentos o divisiones, pero que, a su vez, trabajan por un bien común.
-    p(data-aos="fade-right") Como respaldo para la estructura administrativa moderna, se cuenta con la evolución de los procesos administrativos, que pasan a ser reconocidos como el ciclo P-H-V-A (Planificar-Hacer-Verificar-Actuar) en la administración.
-    p.mb-5(data-aos="fade-right") El PHVA consiste en:
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-6
-        ImagenInfografica.color-acento-botones
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema2/img10.svg', alt='Texto que describa la imagen')
-          .tarjeta.color-acento-botones.p-3(x="37%" y="24%" numero="+")
-            p.mb-0 En este paso se determina ¿qué se quiere o se necesita hacer? A partir de información relevante como en cualquier plan de proyecto; por ejemplo: objetivos, métricas, entregables o resultado final, participantes, cronograma, riesgos y restricciones identificadas.
-          .tarjeta.color-acento-botones.p-3(x="76%" y="54%" numero="+")
-            p.mb-0 Una vez identificado el plan de proyecto, se procede a ponerlo en marcha y a prueba, con la posibilidad de hacer pequeños ajustes graduales. En esta fase se implementa el plan del proyecto a una pequeña escala, para definir su viabilidad, asegurando que funcione correctamente.
-          .tarjeta.color-acento-botones.p-3(x="47.5%" y="94.5%" numero="+")
-            p.mb-0 Esta fase valida que la prueba realizada en el paso anterior haya estado acorde con el plan. Existe la probabilidad que se identifiquen posibilidades de mejora y, por esta razón, la orientación del ciclo es la mejora continua; esta fase es clave para detectar pequeñas complicaciones antes que se transformen en grandes dificultades.
-          .tarjeta.color-acento-botones.p-3(x="11%" y="67%" numero="+")
-            p.mb-0 Aquí se implementan todas las mejoras que tuvo el proyecto con el transcurrir del ciclo. El beneficio de planteamiento como ciclo está encaminado a que, en cualquier momento, se puede volver al inicio para mejorar y corregir.
-    .row.justify-content-center(data-aos="fade-right")
+              img(src='@/assets/curso/tema3/img4.svg', style="width:350px").m-auto
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 Es entonces que el ciclo PHVA, es una estrategia participativa para resolver problemas y para mejorar procesos e implementar cambios. Es un método de mejora continua, que no se concibe como un proceso que se ejecuta una sola vez, sino como una hélice en movimiento continuo, que pretende mejorar de manera constante.
+          p.mb-0 Los instrumentos de análisis representan entonces la posibilidad de obtener información que, en sí misma, no debe ser una decisión, sino que convoca a realizar interpretaciones del contexto y de las realidades que vive la empresa o el proyecto.
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema3/img8.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Ahora bien, las matrices estratégicas son representaciones que muestran, de manera sintética, algunos parámetros o características para tener en cuenta en la toma de decisiones; es decir, definir la estrategia apropiada de intervención en función de las metas y los objetivos estratégicos de la empresa, teniendo en cuenta la situación del entorno, las capacidades internas y los recursos con los que se cuenta para proceder. Estas matrices combinan factores tanto internos, como externos, relacionados con la industria o el sector en el que se desenvuelve la empresa.
+    p.mb-5(data-aos="fade-up") Con base en esta explicación, las matrices pueden venir de uno de los dos siguientes tipos:
+    TabsC.color-acento-contenido.mb-5(data-aos="fade-down")
+      .py-3.py-md-4(titulo="Matrices de posicionamiento")
+        .row.m-1
+          .col-lg-6.mb-4.mb-lg-0
+            figure
+              img(src='@/assets/curso/tema3/img6.svg')
+          .col-lg-6
+            p Proporcionan la “posición” de un proyecto o empresa con referencia al entorno o al mercado en el que opera.
+      .py-3.py-md-4(titulo="Matrices de evaluación")
+        .row.m-1
+          .col-lg-6.mb-4.mb-lg-0
+            figure
+              img(src='@/assets/curso/tema3/img7.svg')
+          .col-lg-6
+            p Proporcionan una valoración de aspectos internos o externos de la empresa, para proyectar una orientación acerca de la estrategia a emprender, de acuerdo con la realidad evidenciada.
+    p.mb-5(data-aos="fade-right") Algunas de las matrices existentes, sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión. 
+    .row.justify-content-center(data-aos="fade-left")
+      .col-10.bg-c3.p-4
+        .row.align-items-center.justify-content-center
+          .col-lg-auto.mb-4.mb-lg-0
+            figure
+              img(src='@/assets/curso/tema3/img8.svg', style="width:60px").m-auto
+          .col-lg.mb-4.mb-lg-0
+            h4.mb-0 Matrices análisis estratégico
+            p.mb-0 Para ampliar la información, lo invitamos a ver el documento Matrices análisis estratégico.
+          .col-lg-auto
+            a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank" type="application/pdf")
+              span(style="color:#FFF") Descargar
+              i.fas.fa-file-download(style="color:#FFF")
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),
