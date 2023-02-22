@@ -38,7 +38,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Modelos gerenciales tradicionales y contemporáneos',
+        titulo: 'Modelos gerenciales y estructura administrativa',
         desarrolloContenidos: true,
       },
       {
