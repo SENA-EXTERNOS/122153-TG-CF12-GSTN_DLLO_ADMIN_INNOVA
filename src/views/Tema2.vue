@@ -104,6 +104,9 @@
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img9.png', style="width:450px").m-auto
+    
+    p Algunos instrumentos de análisis estratégico son: 
+    
     .tarjeta.tarjeta--amarilla.p-4.p-lg-5.mb-5(data-aos="fade-up")
       SlyderA(tipo="b")
         .row.justify-content-center

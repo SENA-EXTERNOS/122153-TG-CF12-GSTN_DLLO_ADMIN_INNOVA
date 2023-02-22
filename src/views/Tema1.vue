@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Modelos gerenciales tradicionales y contemporáneos
+      h1 1.	Modelos gerenciales y estructura administrativa 
     figure(data-aos="fade-up")
       img(src='@/assets/curso/tema1/img1.svg')
     p(data-aos="fade-right") Para dar inicio a este tema se definirán los modelos gerenciales como estrategias de gestión operativa de administración, los cuales son necesarios para dar dirección a la empresa. Si bien existen varias corrientes de pensamiento administrativo, cada una de ellas no responde estrictamente a un modelo gerencial; sin embargo, sí hay diferentes tipos y modelos gerenciales que pueden denominarse tradicionales o contemporáneos, según la afinidad de sus enfoques.
