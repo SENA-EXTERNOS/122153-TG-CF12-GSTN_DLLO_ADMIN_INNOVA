@@ -9,7 +9,7 @@
     p.mb-5(data-aos="fade-right") Con el objetivo de profundizar sobre la administración estratégica a partir del diagnóstico y dar respuesta a preguntas como: ¿qué es?, ¿para qué sirve?, ¿cuáles son los tipos de estrategias administrativas? Lo invitamos a ver el siguiente video, el cual aborda la temática de manera específica:
     figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0ZLYKrw2_KM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p(data-aos="fade-left") Es así como el diagnóstico es el resultado documental de la recolección de una serie de información que debe ser considerada a la hora de tomar decisiones empresariales, porque permite obtener un estado del arte, una radiografía de lo que se tiene, para poder así proyectar lo que se debe hacer; esto forma parte de una buena administración estratégica, desde el reconocer para actuar.
     p.mb-5(data-aos="fade-left") En la Figura 2 se aprecian algunas de las variables que se analizan para el diagnóstico, tanto interno como externo:
     
