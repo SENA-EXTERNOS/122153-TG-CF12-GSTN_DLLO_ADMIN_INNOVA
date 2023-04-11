@@ -219,8 +219,7 @@ export default {
     {
       referencia:
         'Evans, J. R. y Lindsay, W. M. (2020). <em>Administración y control de la calidad</em>. Cengage Learning. ',
-      link:
-        'https://www.auditorlider.com/wp-content/uploads/2019/06/Administraci%C3%B3n-y-control-de-la-calidad-7ed-James-R.-Evans-y-William-M.-Lindsay.pdf',
+      link: 'https://issuu.com/cengagelatam/docs/9786075269528_issuu',
     },
     {
       referencia:
