@@ -218,11 +218,6 @@ export default {
     },
     {
       referencia:
-        'Evans, J. R. y Lindsay, W. M. (2020). <em>Administración y control de la calidad</em>. Cengage Learning. ',
-      link: 'https://issuu.com/cengagelatam/docs/9786075269528_issuu',
-    },
-    {
-      referencia:
         'García Cediel, G. y Carrillo Bautista, M. (2016). <em>Indicadores de gestión. Manual básico de aplicación para Mipyme</em>. Ediciones de la U. ',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/1060/1/Indicadores%20de%20gestion-correccion%201%20%282%29.pdf',
